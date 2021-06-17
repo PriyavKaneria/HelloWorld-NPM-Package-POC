@@ -1,7 +1,6 @@
 {
   "name": "hello-world-from-priyav",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -17,7 +16,7 @@
     "eslint": "7.28.0",
     "eslint-config-next": "11.0.0"
   },
-  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "description": "A sample private npm package to learn how to deploy NextJs app components as packages in npm",
   "main": "pages/index.js",
   "keywords": [
     "hello-world",
